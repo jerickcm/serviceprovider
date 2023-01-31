@@ -1,0 +1,19 @@
+{
+    "name": "jerickcm/serviceprovider",
+    "description": "testing package development",
+    "require": {
+        "orchestra/testbench": "^6.25"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jerickcm\\Serviceprovider\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jerick-CM",
+            "email": "jmangaluz@gmail.com"
+        }
+    ]
+}
